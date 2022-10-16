@@ -58,7 +58,8 @@ h1 span{
 	padding:0 4px;
 	letter-spacing:1px;
 	text-shadow:1px 1px 1px #000;
-	color:#ddd;
+	color:rgb(236, 22, 22);
+	font-size: 20px;
 }
 .header a:hover{
 	color:#fff;
