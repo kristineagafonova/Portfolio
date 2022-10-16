@@ -54,7 +54,7 @@ span.am_close:hover{
 
 #userInfo span {
     margin-left: 0.6vw;
-    font-size: 0.75vw;
+    /* font-size: 0.75vw; */
 }
 
 #userInfo{
@@ -147,3 +147,13 @@ margin-left: 10px;
     font-size: 2.1vw;;
 }
 
+@media (max-device-width:450px) {
+    #userInfo {
+      font-size: 3vw;
+      width: 3000px;
+    }
+    .ac_content h1{
+      font-size: 3vw;
+    }
+  }
+  
